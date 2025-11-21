@@ -19,8 +19,7 @@ V2Box 是一款 iOS / Android 免费代理客户端，支持多协议，适合�
 https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690  
 
  **非中国区 Apple ID** 才能下载。
-如需要 https://neelaworld.com/#/register?code=DrY8tbLQ
-## 价格低，提供免费小火箭
+如需要（价格低，提供免费小火箭）👉 https://neelaworld.com/#/register?code=DrY8tbLQ
 
 ## 📥 第一步：下载 V2Box
 
